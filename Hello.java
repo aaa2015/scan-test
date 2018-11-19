@@ -1,9 +1,8 @@
-package com.jd.scan.test
 
 public class Hello {
 
   public static void main(String[] args) {
-    String str = "test.passport.jd.com";
+    String str = "password";
     System.out.println(str);
   }
 }
